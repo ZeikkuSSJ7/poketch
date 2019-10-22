@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <View
+        android:id="@+id/watchScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/clock_background"/>
+    <TextView
+        android:id="@+id/tvReloj"
+        android:layout_width="320sp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="25sp"
+        android:fontFamily="@font/pkmnem"
+        android:gravity="center"
+        android:text="@string/hora"
+        android:textColor="@color/colorObjeto"
+        android:textSize="104sp" />
+    <TextView
+        android:id="@+id/tvFecha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="25sp"
+        android:paddingLeft="31sp"
+        android:text="@string/fecha"
+        android:fontFamily="@font/pkmnem"
+        android:textSize="26sp"/>
+    <ImageView
+        android:id="@+id/changeScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <ImageView
+        android:id="@+id/border"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/watch_border">
+    </ImageView>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true">
+        <ImageView
+            android:id="@+id/button_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/watch_button_top"/>
+        <ImageView
+            android:id="@+id/button_bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/watch_button_bottom"
+            android:layout_below="@id/button_top"/>
+    </RelativeLayout>
+</RelativeLayout>

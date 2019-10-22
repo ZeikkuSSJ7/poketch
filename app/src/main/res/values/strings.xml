@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pokétch</string>
+    <string name="hora">%1$s:%2$s</string>
+    <string name="fecha">%2$s, %1$s, %3$s</string>
+    <string-array name="months">
+        <item>Januray</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string name="mapName">\nMap:\n$1%s\n</string>
+    <string name="fastRoute">Alternative Route:\n$1%s</string>
+    <string name="mapClase">Go to class</string>
+    <string name="mapAri">Go to Ariadna\'s house</string>
+    <string name="routeClase">Nuevos Ministerios ->\nLinea 6 Guzman el Bueno</string>
+</resources>

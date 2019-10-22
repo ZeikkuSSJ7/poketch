@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_pokeball" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_pokeball" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_pokeball" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_pokeball" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_pokeball" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_pokeball" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_pokeball" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_pokeball" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+    <item android:drawable="@drawable/coin_magikarp" android:duration="80"/>
+    <item android:drawable="@drawable/coin_flip" android:duration="80"/>
+
+</animation-list>

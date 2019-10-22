@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokéreloj</string>
+    <string name="hora">%1$s:%2$s</string>
+    <string name="fecha">%1$s de %2$s de %3$s</string>
+    <string-array name="months">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+    <string name="mapName">\nMapa: %s\n</string>
+    <string name="fastRoute">Ruta alternativa:\n%s</string>
+    <string name="mapClase">Ir a clase</string>
+    <string name="mapAri">Ir a casa de Ariadna</string>
+    <string name="routeClase">Nuevos Ministerios ->\nLinea 6 Guzmán el Bueno</string>
+</resources>
